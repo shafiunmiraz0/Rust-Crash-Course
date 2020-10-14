@@ -28,7 +28,7 @@ Rust is a multi-paradigm programming language focused on performance and safety,
 
 🟠 [![Rust](https://img.shields.io/badge/Introduction%20to-Vectors-A7780C?style=flat)](https://github.com/shafiunmiraz0/Rust-Crash-Course/tree/main/Vectors)
 
-🟠 [![Rust](https://img.shields.io/badge/Introduction%20to-Recover-A7780C?style=flat)]()
+🟠 [![Rust](https://img.shields.io/badge/Introduction%20to-Recover-A7780C?style=flat)](https://github.com/shafiunmiraz0/Rust-Crash-Course/tree/main/Recover)
 
 🟠 [![Rust](https://img.shields.io/badge/Introduction%20to-Conditionals-A7780C?style=flat)](https://github.com/shafiunmiraz0/Rust-Crash-Course/tree/main/Conditionals)
 
