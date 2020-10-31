@@ -56,3 +56,7 @@ Rust is a multi-paradigm programming language focused on performance and safety,
 ### Popular Open Source GitHub Repository to Contribute
 
 🟠 [![Go](https://img.shields.io/badge/Rust-Lang-A7780C?style=flat)](https://github.com/rust-lang/rust)
+
+### Rust Bitcoin Community 
+
+🟠 [![Go](https://img.shields.io/badge/Rust-Bitcoin%20Community-A7780C?style=flat)](https://github.com/rust-bitcoin)
