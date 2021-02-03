@@ -44,7 +44,6 @@ Rust is a multi-paradigm programming language focused on performance and safety,
 
 🟠 [![Rust](https://img.shields.io/badge/Introduction%20to-Command%20Line%20Args-A7780C?style=flat)](https://github.com/shafiunmiraz0/Rust-Crash-Course/tree/main/Command%20Line%20Args)
 
-
 ### Features of Rust Programming Language
 
 🟠 [![Rust](https://img.shields.io/badge/Game-Engines-A7780C?style=flat)]()
