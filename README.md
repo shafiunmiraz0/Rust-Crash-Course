@@ -5,6 +5,7 @@
 Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency. Rust is syntactically similar to C++, and provides memory safety without using garbage collection, but instead through the use of a borrow checking system.
 ### Contents
 
+
 🟠 [![Rust](https://img.shields.io/badge/Introduction%20of-Rust%20Programming%20Language-A7780C?style=flat)](https://github.com/shafiunmiraz0/Rust-Crash-Course/tree/main/Introduction)
 
 🟠 [![Rust](https://img.shields.io/badge/Install-Rust-A7780C?style=flat)](https://github.com/shafiunmiraz0/Rust-Crash-Course/tree/main/Install%20Rust)
